@@ -3,7 +3,9 @@ from termcolor import colored
 
 def print_banner() -> None:
     """
-    Prints the introductory ASCII Art Banner.
+    BoAs Maltinha vamossssss
+    BoAs Maltinha vamossssss
+    BoAs Maltinha vamossssss
 
     Returns:
         None
